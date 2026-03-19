@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Traveller , I'm Darshan <br>Student. Builder. Perpetual debugger.  <br>🎓 HTML, CSS, JS, Python, Java, Docker, n8n — yes, all of them  <br>💻 Learning by doing, shipping by default  <br>🌱 Let's build something worth talking about<br>⚡ Fun fact: Debugging at 2am, gaming at 3am, quietly planning my one-way ticket at 4am — sleep is a myth.<br>💬 Ask me about building things, breaking things, automating things — or anything with a good storyline.<br>
+Hello Traveller , I'm Darshan <br>Student. Builder. Perpetual debugger.  <br>🎓 HTML, CSS, JS,React, Python, Java, C, C++ Docker, n8n — yes, all of them  <br>💻 Learning by doing, shipping by default  <br>🌱 Let's build something worth talking about<br>⚡ Fun fact: Debugging at 2am, gaming at 3am, quietly planning my one-way ticket at 4am — sleep is a myth.<br>💬 Ask me about building things, breaking things, automating things — or anything with a good storyline.<br>
 
 
 ## 🌐 Socials:
